@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GhazeerUsmanKhan
+- 👀 I’m interested in learning coding, starting with python, to java and lastly c++. The rest is up to the future.
+- 🌱 I’m currently learning Python!
+- 💞️ I’m looking to collaborate on easy, simple Python codes with a learning curve!
+- 📫 To reach me, just request to be added to my repository. Or msg me. Whatever suits u...
